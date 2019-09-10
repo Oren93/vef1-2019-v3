@@ -19,7 +19,7 @@ Grunnstærð leturs skal vera `18px` og aðeins skal nota `em` einingar fyrir st
 
 ### Fyrirsagnir & takkar
 
-`h1` fyrirsögn skal aðeins hafa margin að neðan og skal það vera `36px`. Leturstærð fyrirsagnar skal vera `36px`. Fyrir neðan fyrirsögn skal vera `1px` breið línu með litinn `#999`.
+`h1` fyrirsögn skal aðeins hafa margin að neðan og skal það vera `18px`. Leturstærð fyrirsagnar skal vera `36px`. Fyrir neðan fyrirsögn skal vera `1px` breið línu með litinn `#999`.
 
 `h2` fyrirsagnir skulu ekki hafa neitt margin. Leturstærð fyrirsagna skal vera `30px`. Litur fyrirsagna skal vera `#999`.
 
